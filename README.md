@@ -54,7 +54,7 @@ Secure URL shortener with email/password and Google sign-in, JWT access tokens w
 
 `Java` `Spring Boot` `Redis` `JWT` `OAuth2` `Docker`
 
-#### ✅ [Task Management System](https://github.com/TusharPandeydev/<task-manager-repo>)
+#### ✅ [Task Management System](https://github.com/TusharPandeydev/Task-Management)
 Backend for managing tasks with user authentication, CRUD APIs, task status and priority tracking, and role-based access. <apne actual features yahan likh do>
 
 `Java` `Spring Boot` `MySQL` `REST API`
